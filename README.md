@@ -29,7 +29,7 @@ Users can select field mode then start interacting with the grid by hovering ove
      npm start
      ```
 
-5. Open your browser and go to http://localhost:3000 to access the todo list application.
+5. Open your browser and go to http://localhost:3000 to access the application.
 
 ## Built With
 
